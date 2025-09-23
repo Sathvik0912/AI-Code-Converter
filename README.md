@@ -49,6 +49,11 @@ It helps developers quickly translate code snippets between languages for learni
 ```
 # 1. Install dependencies & Run
 ```text
+
+git clone https://github.com/Sathvik0912/AI-Code-Converter.git
+
+cd AI-Code-Converter
+
 npm i
 
 npm run dev
