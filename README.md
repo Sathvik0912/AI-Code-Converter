@@ -16,11 +16,6 @@ It helps developers quickly translate code snippets between languages for learni
 ## 📂 Project Structure
 ```text
 └── sathvik0912-ai-code-converter/
-    ├── components.json
-    ├── next.config.mjs
-    ├── package.json
-    ├── postcss.config.mjs
-    ├── tsconfig.json
     ├── app/
     │   ├── globals.css
     │   ├── layout.tsx
